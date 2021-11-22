@@ -1,5 +1,5 @@
 # code2cbp
-A simple Bash script to automate the conversion of C++ files into a CodeBlocks project.
+A simple Bash script to automate the conversion of C++ files into a CodeBlocks project. (Because CMake still has problems with CodeBlocks generation [here](https://gitlab.kitware.com/cmake/cmake/-/issues/15947))
 
 This small project arised from the sheer amount of time needed for me to create each CodeBlocks project just for each singular question from an assignment. So I thought to myself: *Why not just code in VS Code and then automate the conversion process?*
 
