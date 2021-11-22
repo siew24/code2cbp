@@ -27,3 +27,4 @@ To use the script, just type `./codeblocks.sh` within `some_big_dir` on Bash to 
 
 * Currently only .cpp, .h and .hpp files are supported
 * The current script does not support space-separated source/header filenames
+* All source files and header files must be at the root of your workspace folder as the script does not check recursively for those files
